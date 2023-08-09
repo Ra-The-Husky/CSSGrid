@@ -55,6 +55,7 @@ div {
 
   /* Bonus Phase */
   width: 100px;
+  box-sizing: border-box;
 }
 
 /* ====== */
